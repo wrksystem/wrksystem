@@ -1,7 +1,7 @@
 ### Olá, eu sou o Werik Rodrigues de Andrade 👋
 
-- 🔭 Ainda não trabalho na área
-- 🌱 Estudante HTML, CSS e JavaScript
+- 🔭 Atualmente atualmente fora da área de Tecnologia
+- 🌱 Full-Stack Developer /CSS/HTML/JavaScript/Kotlin 
 - 📫 Contate-me no email: werikrodrigues1@hotmail.com.br
 - 😄 Pronouns: ele/dele
 
