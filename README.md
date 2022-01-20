@@ -1,7 +1,7 @@
 ### Olá, eu sou o Werik Rodrigues de Andrade 👋
 
 - 🔭 Atuando atualmente fora da área de Tecnologia
-- 🌱 Full-Stack Developer /CSS/HTML/JavaScript/Kotlin 
+- 🌱 Desenvolvedor Web /CSS/HTML/JavaScript/ Kotlin Android
 - 📫 Contate-me no email: werikrodrigues1@hotmail.com.br
 - 😄 Pronouns: ele/dele
 
