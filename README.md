@@ -12,7 +12,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/wrksystem">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=wrksystem&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=wrksystem&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrksystem&layout=compact&langs_count=15&theme=radical"/>
 </div>
 <div style="display: inline_block" align="center"><br>
