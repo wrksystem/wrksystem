@@ -12,9 +12,12 @@
 <br>
 <div align="center">
   <a href="https://github.com/wrksystem">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=wrksystem&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrksystem&layout=compact&langs_count=15&theme=radical"/>
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wrksystem&theme=tokyonight"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wrksystem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrksystem&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/><img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=wrksystem&theme=tokyonight&hide_border=true"/>
+    
+#    
 </div>
+  
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
