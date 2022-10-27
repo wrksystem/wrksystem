@@ -5,7 +5,7 @@
 <div align="center">
   <h2>Olá, eu sou o Werik Rodrigues de Andrade 👋</h2>
     <a>🔭 Atuando atualmente fora da área de Tecnologia</a><br>
-    <a>🌱 Desenvolvedor Web /CSS/HTML/JavaScript/ Kotlin Android//</a><br>
+    <a>🌱 Desenvolvedor Mobile/Kotlin Android/CSS/HTML/JavaScript//</a><br>
     <a>📫 Contate-me no email: werikrodrigues1@hotmail.com.br</a><br>
     <a>😄 Pronouns: ele/dele</a><br>
 </div>
