@@ -73,7 +73,7 @@
 </div>
 <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/wrksystem/count.svg" /></p>
 
- ![Snake animation](https://github.com/wrksystem/wrksystem/blob/output/github-contribution-grid-snake.gif)
+ ![Snake animation](https://github.com/wrksystem/wrksystem/blob/output/github-contribution-grid-snake-dark.svg)
   
 
 
