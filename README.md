@@ -5,10 +5,14 @@
 <div align="center" style= color "purple">
   <h2>Olá, eu sou o Werik Rodrigues de Andrade 👋</h2>
     <a>🔭 Atuando atualmente fora da área de Tecnologia</a><br>
-    <a>🌱 Desenvolvedor Mobile/Kotlin Android/CSS/HTML/JavaScript//</a><br>
+    <a>🌱 Desenvolvedor Full Stack /Kotlin Android/CSS/HTML/JavaScript/PHP/Bootstrap//</a><br>
     <a>📫 Contate-me no email: werikrodrigues1@hotmail.com.br</a><br>
     <a>😄 Pronouns: ele/dele</a><br>
 </div>
+<div align="center">
+  
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <br>
 <div align="center">
   <a href="https://github.com/wrksystem">
@@ -18,6 +22,11 @@
 ##
 
 </div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=wrksystem&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
   <div style="display: inline_block" align="center"><br>
     <h3>TECNOLOGIAS</h3>
   </div>
@@ -38,6 +47,7 @@
   <div style="display: inline_block" align="center"><br>
     <h3>FERRAMENTAS</h3>
   </div>
+  
   <img align="center" alt="Rafa-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Rafa-MongoDb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Rafa-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
@@ -63,7 +73,7 @@
 </div>
 <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/wrksystem/count.svg" /></p>
 
- ![snake gif](https://github.com/wrksystem/wrksystem/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/wrksystem/wrksystem/blob/output/github-contribution-grid-snake.gif)
   
 
 
