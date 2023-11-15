@@ -1,14 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1200&lines=Hi+there!+Welcome+to+my+Github+profile.;I+am+Werik+Rodrigues.+And+I'm+a+passionate+FullStack+developer.;How+about+we+talk+about+opportunities?;Let's+go+:%29)](https://git.io/typing-svg)&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1200&lines=Hi+there!+Welcome+to+my+Github+profile.;I'am+Werik+Rodrigues.+And+I'am+passionate+Web/Mobile+developer.;How+about+we+talk+about+opportunities?;Let's+go+:%29)](https://git.io/typing-svg)&nbsp;
 
 
 
 ## Olá, mundo! Meu nome é <strong>Werik</strong>! 👋
 
-<img src="https://raw.githubusercontent.com/wrksystem/wrksystem/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/wrksystem/wrksystem/assets/51803873/8a35ed21-1d0c-4fa5-bcad-e73550848cc7" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Sou mineiro, tenho 25 anos e sou <strong>Desenvolvedor Web e Mobile</strong>.
-
+  
 Graduando em Análise e Desenvolvimento de Sistemas na Faculdade Atenas, e atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor, estudando e desenvolvendo projetos diariamente em busca de me tornar um exímio profissional.
 
 Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.
