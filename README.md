@@ -53,7 +53,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
     </td>
     <td>
       <img
-        align="left"
+        align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrksystem&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github stats"
       />
@@ -61,21 +61,21 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
     <td>
       <br />
       <img
-        align="left"
+        align="right"
         src="https://github-readme-streak-stats.herokuapp.com/?user=wrksystem&theme=synthwave&hide_border=false"
         alt="Github stats"
       />
     </td>    
-    <td>
+  </tr>
+</table>
+<p align="center">     
       <br />
       <img
-        align="left"
+        align="center"
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wrksystem&theme=synthwave"
         alt="Github stats"
       />
-    </td>
-  </tr>
-</table>
+</p>
 
 <br>
 
