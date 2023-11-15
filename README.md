@@ -46,14 +46,14 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=wrksystem&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats.vercel.app/api?username=wrksystem&show_icons=true&show_additional_stats=true&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true"
         alt="Github stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrksystem&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrksystem&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github stats"
       />
     </td>
@@ -61,7 +61,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=wrksystem&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=wrksystem&theme=synthwave&hide_border=false"
         alt="Github stats"
       />
     </td>
