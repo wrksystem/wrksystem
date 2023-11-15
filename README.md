@@ -65,6 +65,14 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
         src="https://github-readme-streak-stats.herokuapp.com/?user=wrksystem&theme=synthwave&hide_border=false"
         alt="Github stats"
       />
+    </td>    
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wrksystem&theme=synthwave"
+        alt="Github stats"
+      />
     </td>
   </tr>
 </table>
