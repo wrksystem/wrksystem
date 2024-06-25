@@ -9,9 +9,9 @@
 <p align="left"> 
   Sou mineiro, tenho 25 anos e sou <strong>Desenvolvedor Web e Mobile</strong>.
   
-Graduando em Análise e Desenvolvimento de Sistemas na Faculdade Atenas, e atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor, estudando e desenvolvendo projetos diariamente em busca de me tornar um exímio profissional.
+Formado em Análise e Desenvolvimento de Sistemas na Faculdade Atenas, e atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor, estudando e desenvolvendo projetos diariamente em busca de me tornar um exímio profissional.
 
-Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.
+Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Gosto de conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.
 
 <h2 align="left">
  🦄 Linguagens:
@@ -24,6 +24,8 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
 ![PHP](https://img.shields.io/badge/php-6A5ACD?style=for-the-badge&logo=php&logoColor=black)
 ![KOTLIN](https://img.shields.io/badge/kotlin-CB396C?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/android-A4C639?style=for-the-badge&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-54C5F8?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-29B6F5?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ED8B00?style=for-the-badge&logo=firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
