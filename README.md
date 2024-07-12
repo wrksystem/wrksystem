@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1200&lines=Hi+there!+Welcome+to+my+Github+profile.;I'am+Werik+Rodrigues.+And+I'am+passionate+Web/Mobile+developer.;How+about+we+talk+about+opportunities?;Let's+go+:%29)](https://git.io/typing-svg)&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1200&lines=Hi+there!+Welcome+to+my+Github+profile.;I'am+Werik+Rodrigues.+And+I'am+passionate+Mobile+Developer.;How+about+we+talk+about+opportunities?;Let's+go+:%29)](https://git.io/typing-svg)&nbsp;
 
 
 
@@ -7,22 +7,18 @@
 <img src="https://github.com/wrksystem/wrksystem/assets/51803873/8a35ed21-1d0c-4fa5-bcad-e73550848cc7" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou mineiro, tenho 25 anos e sou <strong>Desenvolvedor Web e Mobile</strong>.
+  Sou mineiro, tenho 26 anos e atuo como <strong>Desenvolvedor Mobile</strong>.
   
-Formado em Análise e Desenvolvimento de Sistemas na Faculdade Atenas, e atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor, estudando e desenvolvendo projetos diariamente em busca de me tornar um exímio profissional.
+Formado em Análise e Desenvolvimento de Sistemas na Faculdade Atenas, atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor, estudando e desenvolvendo projetos diariamente em busca de me tornar um exímio profissional.
 
 Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Gosto de conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.
 
 <h2 align="left">
- 🦄 Linguagens:
+ 🦄 Linguagens & Tecnologias:
 </h2>
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/php-6A5ACD?style=for-the-badge&logo=php&logoColor=black)
 ![KOTLIN](https://img.shields.io/badge/kotlin-CB396C?style=for-the-badge&logo=kotlin&logoColor=white)
+![Compose](https://img.shields.io/badge/compose-3AD17C?style=for-the-badge&logo=android&logoColor=white)
 ![Android](https://img.shields.io/badge/android-A4C639?style=for-the-badge&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-54C5F8?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-29B6F5?style=for-the-badge&logo=dart&logoColor=white)
