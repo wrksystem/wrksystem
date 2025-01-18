@@ -20,7 +20,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
 ![KOTLIN](https://img.shields.io/badge/kotlin-CB396C?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Compose](https://img.shields.io/badge/compose-3AD17C?style=for-the-badge&logo=android&logoColor=white)
 ![Android](https://img.shields.io/badge/android-A4C639?style=for-the-badge&logo=android&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-808080?style=for-the-badge&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/ios-808080?style=for-the-badge&logo=ios&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-54C5F8?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-29B6F5?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ED8B00?style=for-the-badge&logo=firebase&logoColor=white)
