@@ -35,6 +35,11 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
 ![Flutter](https://img.shields.io/badge/flutter-54C5F8?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-29B6F5?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ED8B00?style=for-the-badge&logo=firebase&logoColor=white)
+![PHP](https://img.shields.io/badge/php-8892BF?style=for-the-badge&logo=php&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML](https://img.shields.io/badge/html-E44D26?style=for-the-badge&logo=html&logoColor=white)
+![CSS](https://img.shields.io/badge/css-264DE4?style=for-the-badge&logo=css&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
