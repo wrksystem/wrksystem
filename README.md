@@ -18,7 +18,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
   <a href="https://github.com/wrksystem" style="margin-right: 10px;">
     <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=wrksystem&show_icons=true&show_additional_stats=true&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/Cavicf">
+  <a href="https://github.com/wrksystem">
     <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrksystem&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
   </a>
 </div>
