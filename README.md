@@ -52,21 +52,5 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
 
 <a href="https://www.instagram.com/werik.rodrigues.tech/" title="Instagram" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<br>
-<br>
-
-
-
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/danieldribeiro/count.svg"
-    alt="Ilustração do número de visitantes no perfil"
-  />
-</p>
-
 
 
