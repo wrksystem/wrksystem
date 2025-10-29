@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1200&lines=Hi+there!+Welcome+to+my+Github+profile.;I'am+Werik+Rodrigues.+And+I'am+passionate+Mobile+Developer.;How+about+we+talk+about+opportunities?;Let's+go+:%29)](https://git.io/typing-svg)&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff800&size=35&center=true&vCenter=true&width=1200&lines=Hi+there!+Welcome+to+my+Github+profile.;I'am+Werik+Rodrigues.+And+I'am+passionate+Mobile+Developer.;How+about+we+talk+about+opportunities?;Let's+go+:%29)](https://git.io/typing-svg)&nbsp;
 
 
 # 🧑‍💻 Sobre Min
@@ -16,10 +16,10 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
 
 <div style="display: flex; justify-content: center; flex-wrap: nowrap;">
   <a href="https://github.com/wrksystem" style="margin-right: 10px;">
-    <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=wrksystem&show_icons=true&show_additional_stats=true&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=wrksystem&show_icons=true&show_additional_stats=true&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/wrksystem">
-    <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrksystem&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+    <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrksystem&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
   </a>
 </div>
 
