@@ -57,7 +57,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
 <a href="https://wa.me/+5538988081444" title="WhatsApp" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
-<a href="https://www.instagram.com/werik.rodrigues.tech/" title="Instagram" target="_blank">
+<a href="https://www.instagram.com/werik.rodrigues.dev/" title="Instagram" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 
