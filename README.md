@@ -12,19 +12,6 @@ Sou Graduado em Análise e Desenvolvimento de Sistemas Tecnólogo pela Faculdade
 Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Gosto de conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.
 
 
-## 📈 Estatísticas do GitHub	
-
-<div style="display: flex; justify-content: center; flex-wrap: nowrap;">
-  <a href="https://github.com/wrksystem" style="margin-right: 10px;">
-    <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=wrksystem&show_icons=true&show_additional_stats=true&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/wrksystem">
-    <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrksystem&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-  </a>
-</div>
-
-
-
 
 ## 🛠️ Ferramentas e Tecnologias
 
