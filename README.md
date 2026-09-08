@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff800&size=35&center=true&vCenter=true&width=1200&lines=Hi+there!+Welcome+to+my+Github+profile.;I'am+Werik+Rodrigues.+And+I'am+passionate+Mobile+Developer.;How+about+we+talk+about+opportunities?;Let's+go+:%29)](https://git.io/typing-svg)&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff800&size=35&center=true&vCenter=true&width=1200&lines=Hi+there!+Welcome+to+my+Github+profile.;I'am+Werik+Rodrigues.+And+I'am+passionate+FullStack+Developer.;How+about+we+talk+about+opportunities?;Let's+go+:%29)](https://git.io/typing-svg)&nbsp;
 
 
 # 🧑‍💻 Sobre Min
 
 
 <p align="left"> 
-  Olá! meu nome é Werik Rodrigues, tenho 28 anos, atuo como <strong>Desenvolvedor Mobile</strong>, e sou fascinado por tecnologia, jogos, hacking e inovação.
+  Olá! meu nome é Werik Rodrigues, tenho 28 anos, atuo como <strong>Desenvolvedor FullStack</strong>, e sou fascinado por tecnologia, jogos, hacking e inovação.
   
 Sou Graduado em Análise e Desenvolvimento de Sistemas Tecnólogo pela Faculdade Atenas, atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor, estudando e desenvolvendo projetos diariamente em busca de me tornar um exímio profissional. 
 
